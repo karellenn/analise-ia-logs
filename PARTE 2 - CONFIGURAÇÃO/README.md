@@ -28,8 +28,8 @@ Nesta parte, abordamos a configuração do Elastic SIEM para o envio e análise 
    [![Formas de envio de log](https://img.youtube.com/vi/v1Wrn_CwStk/maxresdefault.jpg)](https://youtu.be/p9bnK8c76_U?feature=shared)
 --- 
 3. **Instalação dos agentes (beat)**
-   - [Auditbeat](https://github.com/carlossilva9867/soc-opensource-ia/blob/main/PARTE%202%20-%20CONFIGURA%C3%87%C3%83O/SIEM/002%20-%20Instala%C3%A7%C3%A3o%20-%20auditbeat.md)
-   - [Winlogbeat](https://github.com/carlossilva9867/soc-opensource-ia/blob/main/PARTE%202%20-%20CONFIGURA%C3%87%C3%83O/SIEM/003%20-%20Instala%C3%A7%C3%A3o%20-%20winlogbeat.md)
+   - [Auditbeat](https://github.com/karellenn/analise-ia-logs/blob/main/PARTE%202%20-%20CONFIGURA%C3%87%C3%83O/SIEM/002%20-%20Instala%C3%A7%C3%A3o%20-%20auditbeat.md)
+   - [Winlogbeat](https://github.com/karellenn/analise-ia-logs/blob/main/PARTE%202%20-%20CONFIGURA%C3%87%C3%83O/SIEM/003%20-%20Instala%C3%A7%C3%A3o%20-%20winlogbeat.md)
 ---
 ## Prática
 3. **Consumo de alertas:**
@@ -39,8 +39,5 @@ Nesta parte, abordamos a configuração do Elastic SIEM para o envio e análise 
 5. **Geração de tickets no DFIR-IRIS:**
    [![OLLAMA](https://img.youtube.com/vi/hzK9muP8ST4/maxresdefault.jpg)](https://youtu.be/hzK9muP8ST4)
 6. **Notificações:**
-   (EM BREVE)
+   Parte do Telegran
 
-
-## Contribuições
-Contribuições são bem-vindas! Por favor, abra um issue para discutir novas ideias ou funcionalidades.
