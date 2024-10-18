@@ -7,6 +7,7 @@
 2. **Copie e Cole**
 
 **************************************************************************************************************************************************************************************************
+```
   #!/bin/bash
   
   # Atualizar o sistema
@@ -103,15 +104,16 @@
   echo "3. Configure as novas chaves no arquivo kibana.yml:"
   echo "   sudo docker exec -it [ID_KIBANA] /bin/bash -c \"echo -e '\\nxpack.encryptedSavedObjects.encryptionKey: ecaafedbd4daf82cf92f90d0f7b4fca3\\nxpack.reporting.encryptionKey:  
   c2e97cfc7218bb0ff79c63a0be0495de\\nxpack.security.encryptionKey: 7e5528384de8ae29cfaf76bb5b928cf2\\n' >> config/kibana.yml\""
-
+```
 
 **************************************************************************************************************************************************************************************************
 
-
+```
 3. **Torne o script executável:**
+```
   chmod +x instalador_elk_stack.sh
-
-4. **Execute o script:**
+```
+5. **Execute o script:**
   ./instalador_elk_stack.sh
 
 ```
