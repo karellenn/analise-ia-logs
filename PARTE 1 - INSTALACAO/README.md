@@ -4,13 +4,13 @@ Esta é a primeira parte do projeto, onde instalaremos os recursos e ferramentas
 
 ## Sumário
 **Pré-requisitos**
-1. [DOCKER](https://github.com/carlossilva9867/soc-opensource-ia/blob/main/PARTE%201%20-%20INSTALACAO/000-docker_install.md)
+1. [DOCKER](https://github.com/karellenn/analise-ia-logs/blob/main/PARTE%201%20-%20INSTALACAO/000-docker_install.md)
 ---
 ### Serviços
-1. [VM01 - Shuffle](https://github.com/carlossilva9867/soc-opensource-ia/blob/main/PARTE%201%20-%20INSTALACAO/001-shuffler_install.md)
-2. [VM02 - DFIR-IRIS](https://github.com/carlossilva9867/soc-opensource-ia/blob/main/PARTE%201%20-%20INSTALACAO/002-dfir-iris_install.md)
-3. [VM03 - Ollama](https://github.com/carlossilva9867/soc-opensource-ia/blob/main/PARTE%201%20-%20INSTALACAO/004-ollama_install.md)
-4. [VM04 - Elastic Stack](https://github.com/carlossilva9867/soc-opensource-ia/blob/main/PARTE%201%20-%20INSTALACAO/003-elk-stack_install.md)
+1. [VM01 - Shuffle](https://github.com/karellenn/analise-ia-logs/blob/main/PARTE%201%20-%20INSTALACAO/001-shuffler_install.md)
+3. [VM02 - DFIR-IRIS](https://github.com/karellenn/analise-ia-logs/blob/main/PARTE%201%20-%20INSTALACAO/002-dfir-iris_install.md)
+5. [VM03 - ELK ](https://github.com/karellenn/analise-ia-logs/blob/main/PARTE%201%20-%20INSTALACAO/003-elk-stack_install.md)
+7. [VM04 - Ollama ](https://github.com/karellenn/analise-ia-logs/blob/main/PARTE%201%20-%20INSTALACAO/004-ollama_install.md)
 
 ## Referências
 
